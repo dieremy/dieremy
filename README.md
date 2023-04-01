@@ -42,5 +42,5 @@
 
 <a href="https://github.com/dieremy/Philosophers">PHILOSOPHERS</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3046724" alt="robegarc's 42 Philosophers Score" /></a>
 
-<a href"https://github.com/dieremy/minishell">MINISHELL</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3047347" alt="robegarc's 42 minishell Score" /></a>
+<a href="https://github.com/dieremy/minishell">MINISHELL</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3047347" alt="robegarc's 42 minishell Score" /></a>
 
