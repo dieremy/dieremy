@@ -24,23 +24,23 @@
 
 <h2 align="left">my 42 Rome stats:</h2><a ref = "https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/stats?cursusId=21&coalitionId=124">
 
-LIBFT => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2942271" alt="robegarc's 42 Libft Score" /></a>
+<a href="https://github.com/dieremy/Libft_42">LIBFT</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2942271" alt="robegarc's 42 Libft Score" /></a>
 
-GET NEXT LINE => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2951517" alt="robegarc's 42 get_next_line Score" /></a>
+<a href="https://github.com/dieremy/GetNextLine">GET NEXT LINE</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2951517" alt="robegarc's 42 get_next_line Score" /></a>
 
-FT_PRINTF => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2956566" alt="robegarc's 42 ft_printf Score" /></a>
+<a href="https://github.com/dieremy/ft_printf">FT_PRINTF</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2956566" alt="robegarc's 42 ft_printf Score" /></a>
 
-BORN TO BE ROOT => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2966568" alt="robegarc's 42 Born2beroot Score" /></a>
+<a href="https://github.com/dieremy/B2BR">BORN TO BE ROOT</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2966568" alt="robegarc's 42 Born2beroot Score" /></a>
 
-FRACT'OL => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2992794" alt="robegarc's 42 fract-ol Score" /></a>
+<a href="https://github.com/dieremy/Fract-ol">FRACT'OL</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/2992794" alt="robegarc's 42 fract-ol Score" /></a>
 
-EXAM_02 => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3014758" alt="robegarc's 42 Exam Rank 02 Score" /></a>
+<a href="https://github.com/dieremy/42_Exam_02">EXAM_02</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3014758" alt="robegarc's 42 Exam Rank 02 Score" /></a>
 
-PUSH_SWAP => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3023781" alt="robegarc's 42 push_swap Score" /></a>
+<a href="https://github.com/dieremy/push_swap_quick_sort">PUSH_SWAP</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3023781" alt="robegarc's 42 push_swap Score" /></a>
 
-MINITALK => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3024781" alt="robegarc's 42 minitalk Score" /></a>
+<a href="https://github.com/dieremy/Minitalk">MINITALK</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3024781" alt="robegarc's 42 minitalk Score" /></a>
 
 <a href="https://github.com/dieremy/Philosophers">PHILOSOPHERS</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3046724" alt="robegarc's 42 Philosophers Score" /></a>
 
-MINISHELL => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3047347" alt="robegarc's 42 minishell Score" /></a>
+<a href"https://github.com/dieremy/minishell">MINISHELL</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3047347" alt="robegarc's 42 minishell Score" /></a>
 
