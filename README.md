@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Remy</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dieremy&label=Profile%20views&color=ff00a2&style=plastic" alt="dieremy" /> </p>
+
 - 🔭 I’m currently learning **C, C++, Unix, Virtual machines**
 
 - 🖥 I’m currently student at **42 Roma Luiss**
@@ -38,8 +40,7 @@ PUSH_SWAP => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://ba
 
 MINITALK => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3024781" alt="robegarc's 42 minitalk Score" /></a>
 
-PHILOSOPHERS => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3046724" alt="robegarc's 42 Philosophers Score" /></a>
+<a ref="https://github.com/dieremy/Philosophers">PHILOSOPHERS</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3046724" alt="robegarc's 42 Philosophers Score" /></a>
 
 MINISHELL => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3047347" alt="robegarc's 42 minishell Score" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dieremy&label=Profile%20views&color=ff00a2&style=plastic" alt="dieremy" /> </p>
