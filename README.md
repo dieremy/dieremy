@@ -38,11 +38,11 @@
 
 <a href="https://github.com/dieremy/Philosophers">PHILOSOPHERS</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3046724" alt="robegarc's 42 Philosophers Score" /></a>
   
-EXAM_03 => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3059334" alt="robegarc's 42 Exam Rank 03 Score" /></a>
+<a href="https://github.com/dieremy/42_exam_03">EXAM_03</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3059334" alt="robegarc's 42 Exam Rank 03 Score" /></a>
 
 <a href="https://github.com/dieremy/minishell">MINISHELL</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3047347" alt="robegarc's 42 minishell Score" /></a>
   
-EXAM_04 => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3109274" alt="robegarc's 42 Exam Rank 04 Score" /></a>
+<a href="https://github.com/dieremy/42_exam_04">EXAM_04</a> => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3109274" alt="robegarc's 42 Exam Rank 04 Score" /></a>
 
 CPP_MODULE_00 => <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleugyh5u00060gmnpktv5h5n/project/3110721" alt="robegarc's 42 CPP Module 00 Score" /></a>
   
